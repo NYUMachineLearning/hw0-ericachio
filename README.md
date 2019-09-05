@@ -21,7 +21,7 @@ It should look something like this:
   * *Erica* **Chio**
 2. Favorite Color: 
   * ~~blue~~
-3. [Github Repo] (https://github.com/ericachio)
+3. [Github Repo](https://github.com/ericachio)
   * https://github.com/ericachio
 
 
