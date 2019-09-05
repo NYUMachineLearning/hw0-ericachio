@@ -20,7 +20,9 @@ It should look something like this:
 1. Name:
   * *Erica* **Chio**
 2. Favorite Color: 
-  * blue
-3. (Github Repo) [https://github.com/ericachio]
+  * ~~blue~~
+3. [Github Repo] (https://github.com/ericachio)
+  * https://github.com/ericachio
+
 
 Once you are done, commit your changes, and push to GitHub. 
